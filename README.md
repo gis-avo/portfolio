@@ -1,2 +1,2 @@
 # portfolio
-Test portfolio application
+Test portfolio application using AWS and ReactJS.
